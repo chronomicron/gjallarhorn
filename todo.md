@@ -1,0 +1,10 @@
+Horn Name,Asset Type,File Name,Description/Format
+Skoggjall,Audio Blast,sfx_skoggjall_blast.mp3,"Low, echoing forest horn (WAV/MP3, ~2-5s loopable)."
+Skoggjall,Inventory Icon,skoggjall_icon.png,"128x128px 2D sprite (PNG, transparent BG, Viking rune accents)."
+Skoggjall,3D Model,skoggjall.prefab,"Unity prefab with bone/bronze mesh, LODs, and animations (FBX import)."
+Vindblåst,Audio Blast,sfx_vindblast_blast.mp3,"Sharp, windy gale-like blast (WAV/MP3, ~3s with reverb)."
+Vindblåst,Inventory Icon,vindblast_icon.png,"128x128px 2D sprite (PNG, iron chain details, misty effects)."
+Vindblåst,3D Model,vindblast.prefab,"Unity prefab with root/iron wrapping, wind-particle emitter (FBX import)."
+Ragnarblæser,Audio Blast,sfx_ragnarblaeser_blast.mp3,"Deep, rumbling apocalyptic horn (WAV/MP3, ~4s with thunder overlay)."
+Ragnarblæser,Inventory Icon,ragnarblaeser_icon.png,"128x128px 2D sprite (PNG, black metal scales, fiery glow)."
+Ragnarblæser,3D Model,ragnarblaeser.prefab,"Unity prefab with lox pelt/tar engravings, glow shader (FBX import)."
